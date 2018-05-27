@@ -1,3 +1,7 @@
 add
 del
 mult
+inte
+dev
+red
+foo
